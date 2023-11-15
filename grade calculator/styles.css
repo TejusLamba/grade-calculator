@@ -1,0 +1,56 @@
+.hr {
+  text-align: left;
+}
+h1 {
+  padding-left: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+h2 {
+  padding-left: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+h3 {
+  padding-left: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+img {
+  width: 700px;
+}
+a {
+  color: red;
+  text-decoration: underlines;
+}
+a:hover {
+  text-decoration: underline;
+}
+.inputs {
+  font-size: 20px;
+}
+input {
+  width: 60px;
+  font-size: 20px;
+}
+button {
+  background-color: beige;
+  color: white;
+  cursor: pointer;
+  padding: 5px 20px;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  margin-left: 25px;
+}
+button:hover {
+  background-color: white;
+  border-radius: 20px;
+}
+hr {
+  width: 700px;
+}
+.btn {
+  background-color: black;
+  border-radius: 20px;
+}
+.csfinal {
+  font-size: 25px;
+}
